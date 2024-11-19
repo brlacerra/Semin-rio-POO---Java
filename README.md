@@ -1,6 +1,6 @@
 ## Projeto em Java com Interface Gráfica
 
-<p>Códigos (autoria de Bruno Lacerra, Pedro Salles) correspondetes a disciplina "Programação Orientada a Objetos I".
+<p>Códigos (autoria de Bruno Lacerra, Pedro Salles e João Pedro) correspondetes a disciplina "Programação Orientada a Objetos I".
  da Universidade Federal de Uberlândia, Feitos em 2024.</p>
 
 <p>O código é feito em Java, utilizando classes, polimorfismo, extensão, complementos, etc. Contendo as seguintes funções</p>
@@ -13,7 +13,7 @@
 </ul>
 
 ## Java Project with Graphical Interface
-<p>Code (authored by Bruno Lacerra, Pedro Salles) corresponding to the course "Object-Oriented Programming I" at the Federal University of Uberlândia, developed in 2024.</p>
+<p>Code (authored by Bruno Lacerra, Pedro Salles e João Pedro) corresponding to the course "Object-Oriented Programming I" at the Federal University of Uberlândia, developed in 2024.</p>
 
 <p>The code is written in Java, utilizing classes, polymorphism, inheritance, components, etc. It includes the following functions:</p> 
 <ul> 
